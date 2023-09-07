@@ -3,7 +3,7 @@ Walkthrough for a Sentiment Analysis jupyter notebook of YouTube comments. Modif
 
 Collaborators:
 
-Asmitha Gopal, Email: agopal@cpp.edu
+Asmitha Gopal, Email: agopal@cpp.edu \n
 Khushi H. Masarani, Email: khmasarani@cpp.edu
 
 Credit to: Tanmay Ghosh
