@@ -8,4 +8,4 @@ Collaborators:
 
 Credit to: Tanmay Ghosh
 
-Original source code: https://www.kaggle.com/code/tanmay111/youtube-comments-sentiment-analysis
+Original source: https://www.kaggle.com/code/tanmay111/youtube-comments-sentiment-analysis
