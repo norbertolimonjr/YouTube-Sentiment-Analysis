@@ -1,6 +1,7 @@
 # YouTube-Sentiment-Analysis
 Walkthrough for a Sentiment Analysis jupyter notebook of YouTube comments. 
-Modifications made for more efficient data cleaning and context provided in powerpoint presentation.
+
+Modifications made for more efficient data cleaning and targeted sentiment analysis; context provided in powerpoint presentation.
 
 Collaborators:
 - Asmitha Gopal, Email: agopal@cpp.edu
